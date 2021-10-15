@@ -24,7 +24,7 @@ authors:
 url_video: https://youtu.be/yJeE9x0_xW4
 featured: true
 date: 2021-08-24T23:31:27.292Z
-url_slides: https://drive.google.com/file/d/1wV4wsn1nWnE81LEFtmB5idOHNzG3n6AV/view?usp=sharing
+url_slides: https://drive.google.com/file/d/1HNTDMklfP5z7TZNUidgpJ9nIiYk5Dr2v/view?usp=sharing
 title: The Impact of the Johnson-Reed Act on Filipino Labor Market Outcomes
 subtitle: ""
 image:
