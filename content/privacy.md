@@ -16,10 +16,11 @@ Angaben gemäß § 5 TMG
 
   Andreas Vortisch
   
-  319 Odom
+  University of Luxembourg
+  Kirchberg Campus
+  6, rue Richard Coudenhove-Kalergi
+  L-1359 Luxembourg
   
-  38677 University, MS, USA
-  
-  E-Mail: abvortis@olemiss.edu
+  E-Mail: andreas.vortisch@uni.lu
   
   Quelle: https://www.e-recht24.de
