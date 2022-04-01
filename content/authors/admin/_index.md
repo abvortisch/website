@@ -6,35 +6,35 @@ title: Andreas Vortisch
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Research and development specialist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Mississippi
-  url: https://www.olemiss.edu/
+- name: University of Luxembourg
+  url: https://www.uni.lu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the economics of immigration such as policy analysis and determinants of integration and assimilation.
+bio: My research focuses on the economics of immigration such as policy analyses and determinants of integration and assimilation.
 
 # Interests to show in About widget
 interests:
-- Migration
+- International Migration
 - Labor
 - Applied Microeconomics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: University of Mississippi
-    year: 2022 (anticipated)
-  - course: MA in Economics
+    year: 2022
+  - course: M.A. in Economics
     institution: University of Mississippi
     year: 2019
-  - course: MSc in Economics
+  - course: M.Sc. in Economics
     institution: Universität Potsdam, Germany
     year: 2017
-  - course: BSc in Economics
+  - course: B.Sc. in Economics
     institution: Europa-Universität Viadrina, Frankfurt (Oder), Germany
     year: 2014 
 
@@ -75,10 +75,8 @@ highlight_name: false
 
 Welcome to my website!
 
-My name is Andreas Vortisch, I am a Ph.D. candidate in Economics at the University of Mississippi. My research focuses on the economics of migration, especially migration motives, assimilation and migration policies. Samples of my work and my CV can be found below.
+My name is Andreas Vortisch, I am a research and development specialist at the University of Luxembourg. My research focuses on the economics of migration, especially migration motives, assimilation and migration policies. Samples of my work and my CV can be found below.
 
-I am looking forward to applying my acquired knowledge at the next professional level after my graduation in the spring of 2022.
-
-Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me. I am currently on the job market and available for interviews at the ASSA and European Job Market meetings.
+Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me.
 
 {{< icon name="download" pack="fas" >}} {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
