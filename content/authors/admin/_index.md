@@ -6,7 +6,7 @@ title: Andreas Vortisch
 superuser: true
 
 # Role/position/tagline
-role: Research and development specialist
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -75,7 +75,7 @@ highlight_name: false
 
 Welcome to my website!
 
-My name is Andreas Vortisch, I am a research and development specialist at the University of Luxembourg. My research focuses on the economics of migration, especially migration motives, assimilation and migration policies. Samples of my work and my CV can be found below.
+My name is Andreas Vortisch, I am a postdoctoral researcher at the University of Luxembourg. My research focuses on the economics of migration, especially migration motives, assimilation and migration policies. Samples of my work and my CV can be found below.
 
 Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me.
 
