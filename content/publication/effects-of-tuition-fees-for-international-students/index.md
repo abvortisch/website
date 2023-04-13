@@ -20,7 +20,7 @@ authors:
   - admin
 url_video: https://drive.google.com/file/d/1Csy7-DIjSkoLZY81RLfLXJ2yK9eXA8N2/view?usp=sharing
 featured: true
-date: 2023-04-13T15:36:00.000Z
+date: 2023-04-13
 url_slides: https://drive.google.com/file/d/14AZjHIX66aeneVXLNUFHCHe67TyGL9Nb/view?usp=sharing
 title: The Land of the Fee: The Effect of Baden-Württemberg's Tuition Fee on International Student Outcomes
 subtitle: ""
