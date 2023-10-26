@@ -49,9 +49,9 @@ social:
 # - icon: twitter
  # icon_pack: fab
  # link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
- # icon_pack: fas
- # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ZiOdkOEAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/abvortisch
@@ -77,6 +77,6 @@ Welcome to my website!
 
 My name is Andreas Vortisch, I am a postdoctoral researcher at the University of Luxembourg. My research focuses on the economics of migration, especially migration motives, assimilation, and migration policies. Samples of my work and my CV can be found below.
 
-Feel free to get acquainted with me and my work. Also, please do not hesitate to get in touch with me.
+Feel free to get acquainted with me and my work. If you are interested in working with me or want to know more, please do not hesitate to get in touch with me.
 
 {{< icon name="download" pack="fas" >}} {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
