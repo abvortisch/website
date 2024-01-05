@@ -20,7 +20,7 @@ publication_types:
   - "3"
 authors:
   - admin
-featured: false
+featured: true
 date: 2021-08-24T23:31:27.292Z
 url_pdf: https://drive.google.com/file/d/1fyO7Gkhq70vSnV24dEwCFpdGhAJESKLv/view
 url_slides: https://drive.google.com/file/d/1EYJlbZ0gKmiafNe-ELhTV9LjodgLviJ_/view
