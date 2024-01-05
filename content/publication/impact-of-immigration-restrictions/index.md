@@ -21,7 +21,6 @@ publication_types:
   - "1"
 authors:
   - admin
-url_video: https://youtu.be/yJeE9x0_xW4
 featured: true
 date: 2021-08-24T23:31:27.292Z
 url_slides: https://drive.google.com/file/d/1HNTDMklfP5z7TZNUidgpJ9nIiYk5Dr2v/view?usp=sharing
