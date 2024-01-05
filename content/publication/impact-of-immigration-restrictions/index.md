@@ -16,13 +16,13 @@ abstract: Immigration restrictions to the US are rather modern policies. One of
   immigrant cohorts. Individual panel data analysis partially supports the
   findings in the cross-sectional evaluation.
 draft: false
-url_pdf: https://drive.google.com/file/d/1fyO7Gkhq70vSnV24dEwCFpdGhAJESKLv/view
 publication_types:
   - "1"
 authors:
   - admin
 featured: true
 date: 2021-08-24T23:31:27.292Z
+url_pdf: https://drive.google.com/file/d/1fyO7Gkhq70vSnV24dEwCFpdGhAJESKLv/view
 url_slides: https://drive.google.com/file/d/1EYJlbZ0gKmiafNe-ELhTV9LjodgLviJ_/view
 title: The Impact of the Johnson-Reed Act on Filipino Labor Market Outcomes
 subtitle: ""
