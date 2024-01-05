@@ -17,7 +17,7 @@ abstract: Immigration restrictions to the US are rather modern policies. One of
   findings in the cross-sectional evaluation.
 draft: false
 publication_types:
-  - "1"
+  - "3"
 authors:
   - admin
 featured: true
