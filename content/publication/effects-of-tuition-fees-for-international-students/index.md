@@ -24,7 +24,7 @@ date: 2023-04-13
 url_slides: https://drive.google.com/file/d/14AZjHIX66aeneVXLNUFHCHe67TyGL9Nb/view?usp=sharing
 links:
 - name: Press coverage SZ
-- url: https://www.sueddeutsche.de/muenchen/muenchen-tum-studiengebuehren-nicht-eu-auslaender-reaktionen-1.6222098
+  url: https://www.sueddeutsche.de/muenchen/muenchen-tum-studiengebuehren-nicht-eu-auslaender-reaktionen-1.6222098
 title: "The Land of the Fee: The Effect of Baden-Württemberg's Tuition Fee on International Student Outcomes"
 subtitle: ""
 image:
