@@ -7,7 +7,7 @@ publication_types:
 # publication:
 authors: ["Michel Beine", "Michel Bierlaire", "Evangelos Paschalidis", "Silvia Varotto", admin]
 # url_video:
-# featured: true
+featured: true
 date: 2024-07-09
 # url_slides:
 links:
