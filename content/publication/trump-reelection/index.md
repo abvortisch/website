@@ -5,8 +5,7 @@ draft: true
 publication_types:
   - "3"
 # publication:
-authors:
-  - admin
+authors: ["Michel Beine", "Michel Bierlaire", "Evangelos Paschalidis", "Silvia Varotto", admin]
 url_video:
 featured: true
 date: 2024-07-09
