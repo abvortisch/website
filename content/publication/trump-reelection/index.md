@@ -13,6 +13,8 @@ date: 2024-07-09
 links:
 - name: CESifo Working Paper No. 11195
   url: https://www.cesifo.org/en/publications/2024/working-paper/impact-possible-trump-reelection-mexican-immigration-pressures
+- name: Press coverage WiWo
+  url: https://emagazin.wiwo.de/epaper/wirtschaftswoche-2024-07-19-epa-1569/?interactivelayer=81678
 title: "The Impact of a Possible Trump Reelection on Mexican Immigration Pressures in Alternative Countries"
 subtitle: ""
 image:
