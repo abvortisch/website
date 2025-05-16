@@ -6,12 +6,12 @@ title: Andreas Vortisch
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Research associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Luxembourg
-  url: https://www.uni.lu
+- name: Institute for Employment Research
+  url: https://www.iab.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the economics of immigration such as policy analyses and determinants of integration and assimilation.
@@ -52,6 +52,9 @@ social:
 - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZiOdkOEAAAAJ&hl=en&oi=ao
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-5087-5380
 - icon: github
   icon_pack: fab
   link: https://github.com/abvortisch
@@ -75,7 +78,7 @@ highlight_name: false
 
 Welcome to my website!
 
-My name is Andreas Vortisch, I am a postdoctoral researcher at the University of Luxembourg. My research focuses on the economics of migration, especially migration motives, assimilation, and migration policies. Samples of my work and my CV can be found below.
+My name is Andreas Vortisch, I am a research associate at IAB. My research focuses on the economics of migration, especially migration motives, assimilation, and migration policies. Samples of my work and my CV can be found below.
 
 Feel free to get acquainted with me and my work. If you are interested in working with me or want to know more, please do not hesitate to get in touch with me.
 
