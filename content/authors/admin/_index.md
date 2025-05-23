@@ -6,7 +6,7 @@ title: Andreas Vortisch
 superuser: true
 
 # Role/position/tagline
-role: Research associate
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.iab.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the economics of immigration such as policy analyses and determinants of integration and assimilation.
+bio: My research focuses on the economics of immigration such as the drivers of migration decisions, the economic integration of immigrants, and the effectiveness of migration and integration policies.
 
 # Interests to show in About widget
 interests:
@@ -78,7 +78,7 @@ highlight_name: false
 
 Welcome to my website!
 
-My name is Andreas Vortisch, I am a research associate at IAB. My research focuses on the economics of migration, especially migration motives, assimilation, and migration policies. Samples of my work and my CV can be found below.
+My name is Andreas Vortisch, I am a postdoctoral researcher at IAB. My research focuses on the economics of migration, especially the drivers of migration decisions, the economic integration of immigrants, and the effectiveness of migration and integration policies. Samples of my work and my CV can be found below.
 
 Feel free to get acquainted with me and my work. If you are interested in working with me or want to know more, please do not hesitate to get in touch with me.
 
