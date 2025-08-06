@@ -27,6 +27,8 @@ links:
 - name: CESifo Working Paper No. 11952
 
   url: https://www.ifo.de/en/cesifo/publications/2025/working-paper/aspiration-action-impact-germanys-2015-dublin-iii-suspension
+- name: IAB-Discussion Paper 10|2025
+  url: http://dx.doi.org/10.48720/IAB.DP.2510
 
 title: "From Aspiration to Action? The Impact of Germany's 2015 Dublin III Suspension on Migration Intentions in Arab Countries"
 
