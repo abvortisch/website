@@ -6,7 +6,7 @@ title: Andreas Vortisch
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Senior researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
