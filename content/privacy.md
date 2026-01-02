@@ -16,11 +16,10 @@ Angaben gemäß § 5 TMG
 
   Andreas Vortisch
   
-  University of Luxembourg
-  Kirchberg Campus
-  6, rue Richard Coudenhove-Kalergi
-  L-1359 Luxembourg
+  Institut für Arbeitsmarkt- und Berufsforschung
+  Regensburger Str. 100
+  90478 Nürnberg
   
-  E-Mail: andreas.vortisch@uni.lu
+  E-Mail: andreas.vortisch@iab.de
   
   Quelle: https://www.e-recht24.de
