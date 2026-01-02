@@ -17,8 +17,11 @@ Angaben gemäß § 5 TMG
   Andreas Vortisch
   
   Institut für Arbeitsmarkt- und Berufsforschung
+  
   Regensburger Str. 100
+  
   90478 Nürnberg
+  
   
   E-Mail: andreas.vortisch@iab.de
   
